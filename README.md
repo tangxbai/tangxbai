@@ -1,6 +1,6 @@
 ### Hi there 👋, I am tangxbai
 
-#### I am Bron in Chengdu, Sichuan, China, is a Java developer, mainly engaged in Java related development.
+#### I am a Java developer working in Chengdu, Sichuan, China, mainly engaged in Java-related development.
 
 - 🔭 I’m currently working at chengdu
 - 📫 How to reach me: tangxbai@hotmail.com
